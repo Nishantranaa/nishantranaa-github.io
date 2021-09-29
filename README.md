@@ -1,7 +1,7 @@
 
 # Nishant Rana 
  
- * [A FRIENDLY ETHICAL HACKER]
+* [A FRIENDLY ETHICAL HACKER]
 
 
 About Me 
