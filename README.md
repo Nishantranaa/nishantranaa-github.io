@@ -1,16 +1,21 @@
 
-# Nishant Rana
+# Nishant Rana <NISH> <KID> <OF> <THE> <90s>
 
 
 About Me 
 
-Welcome to my darkside a space which explores my passion for cybersecurity and ethical hacking. At the age of five I was very curious of technology and keen on trying ways to open any electronic device which I had got my had on! With the encouragment of my granddad I was happily discovering how thinsgs work each day. I was proud of having successfuly repaired and modified a bedside clock for my grand dads friend. 
+Welcome to my darkside a space which explores my passion for cybersecurity and ethical hacking. At the age of five I had been very curious on experiencing technology with a driving passion to open any electronic device I laid my hands on! A set of tools belonging to my grandmum and the positive vibes and encouragment from my grandad I was happily discovering how tech worked each day. I was proud of having successfuly repaired and modified a bedside clock for my grand dads friend. 
 
-This curiosity contined to mobile devices and laptops. I was able to unlock my dads old ericson handphone using thrid party software in the early millenium.   
+In the early 2000 laptops and mobile phones was my new curiosity. From physically opening these devices I moved to a newer and much lighter tool box. 
+  
+Tool Box
 
-that loves to figure out were and when an intrusion may occur! My secondary research focuses on the mind of a hacker. 
+  *Kali Linux
+  *Try Hack ME
+  
+"The only way to produce a better analyst of when an intrution is likely to happen is by being good at ethical hackering."
 
-I believe that the only way to produce a better analyst of when an intrution is likely to happen is by being good at ethical hackering. This helps make security better by discovering the failures and working with vendors to make it better. 
+  This helps make security better by discovering the failures and working with vendors to make it better. 
 
 
 
