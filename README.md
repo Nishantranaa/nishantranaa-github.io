@@ -1,5 +1,5 @@
 
-# Nishant Rana <NISH> 
+# Nishant Rana [NISH]
 
 
 About Me 
