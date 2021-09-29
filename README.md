@@ -1,5 +1,5 @@
 
-# Nishant Rana <NISH> <KID> <OF> <THE> <90s>
+# Nishant Rana <NISH> 
 
 
 About Me 
