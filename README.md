@@ -1,5 +1,7 @@
 
-# Nishant Rana * A FRIENDLY ETHICAL HACKER
+# Nishant Rana 
+ 
+ * [A FRIENDLY ETHICAL HACKER]
 
 
 About Me 
